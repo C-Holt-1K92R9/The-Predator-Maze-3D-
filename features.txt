@@ -1,10 +1,9 @@
 1. player movements
-2. random mage generation
+2. random maze generation
 3. random enemy spawn
 4. enemy following player
-5. shooting bulets
-6. colidations (enimies with bulets and player with enemies)
+5. shooting bullets
+6. collision (enemies with bullets and player with enemies)
 7. coins collection
-8. jump
-9. collecting 5 coins will give us 1 bulets
-10. collecting 10 coins will give us 5 sec of top down view
+8. player can buy 1 bullet for 5 coins
+9. killing 6 enemies will give player 5 sec of top down view

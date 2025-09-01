@@ -1,9 +1,14 @@
-1. player movements
-2. random maze generation
-3. random enemy spawn
-4. enemy following player
-5. shooting bullets
-6. collision (enemies with bullets and player with enemies)
-7. coins collection
-8. player can buy 1 bullet for 5 coins
-9. killing 6 enemies will give player 5 sec of top down view
+1. Player movement
+2. Random maze generation 
+3. Random enemy spawn
+4. Enemy following player
+5. Shooting bullets
+6. Collision(enemies with bullets and players)
+7. Coin collection 
+8. Player can buy 1 bullet for 5 coins 
+9. Killing 6 enemies give 5 sec top down view
+10. Top down view at game start 
+11. Win condition
+12. Lose condition 
+13. Restart mechanism
+14. Positioning a start and an end poin by finding a actual path
